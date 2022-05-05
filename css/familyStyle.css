@@ -1,0 +1,77 @@
+/*Container of table*/
+#tableCont {
+  margin-top: 15%;
+  height: 400px;
+  overflow-y: auto;
+  border: white;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/*Header div of table*/
+#headerDiv {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 15;
+  text-align: center;
+}
+
+/*Menbers' table styles */
+.table {
+  width: 100%;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+}
+
+.family-head {
+  font-weight: bold;
+}
+
+tbody .btnRemove {
+  font-size: 10pt;
+  padding: 1%;
+}
+
+.overlay {
+  position: fixed !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 990;
+}
+
+#lastCont {
+  padding-top: 2%;
+}
+
+#lastCont,
+#tableCont {
+  width: 45%;
+  opacity: 0.85;
+  padding-right: 0;
+}
+
+@media (max-width: 900px) {
+  #lastCont,
+  #tableCont {
+    width: 95%;
+  }
+  .table {
+    width: 100%;
+  }
+}
+
+/*Class for adjusting theme to containers*/
+#tableCont .jumbotron {
+  overflow-x: auto;
+  margin-bottom: 0;
+  margin-top: 0;
+}

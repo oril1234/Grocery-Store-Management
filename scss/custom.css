@@ -1,0 +1,21 @@
+@import url("../css/bootstrap-dark.min.css");
+@import url("../css/stickey-footer-navbar.css");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+nav a:active {
+  background-color: gray;
+  color: white;
+}
+
+nav a:hover {
+  color: blue;
+}
+
+body {
+  background: -webkit-linear-gradient(
+      rgba(59, 59, 59, 0.322),
+      rgba(12, 14, 43, 0.8)
+    ),
+    url("../css/img/PetekBackGround.PNG");
+  background-size: cover;
+}
+/*# sourceMappingURL=custom.css.map */

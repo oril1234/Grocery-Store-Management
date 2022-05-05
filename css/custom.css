@@ -1,0 +1,60 @@
+@import url("../css/bootstrap-light.min.css");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+nav,
+a:active,
+a,
+#connectedUser {
+  background-color: #e0ba98;
+  color: black;
+}
+
+nav a:hover,
+nav .nav-item:hover {
+  color: white;
+}
+
+.dropdown a {
+  color: black;
+  background-color: transparent;
+}
+
+.dropdown a:hover {
+  color: #adb0e6;
+}
+
+nav .container-fluid {
+  background: #e0ba98;
+}
+
+body {
+  background: -webkit-linear-gradient(rgba(224, 170, 145, 0.8), rgba(230, 238, 185, 0.8)), url("../css/img/PetekBackGround.PNG");
+  background-size: cover;
+}
+
+.footer {
+  color: black;
+}
+
+.masthead-subheading,
+.masthead-heading,
+#spanNotResistered,
+#createAnAccount {
+  color: black;
+}
+
+.badge {
+  background-color: red;
+  color: white;
+  font-size: 12pt;
+  border-radius: 100%;
+}
+
+.fa-bell {
+  color: white;
+  font-size: 15pt;
+}
+
+#forgotPassword {
+  background-color: transparent;
+}
+/*# sourceMappingURL=custom.css.map */

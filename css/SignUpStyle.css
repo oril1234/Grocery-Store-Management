@@ -1,0 +1,131 @@
+html,
+body {
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+
+  /* This is what makes the background image rescale based
+     on the container's size */
+  background-size: cover;
+
+  /* Set a background color that will be displayed
+     while the background image is loading */
+}
+
+/*Wrapper of form*/
+.formWrapper {
+  width: 550px;
+  border-radius: 10px;
+  overflow: hidden;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 30px;
+  padding-top: 0;
+  margin-top: 10%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  position: relative;
+}
+
+/*Div that contains the header of the form*/
+#headerDiv {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+}
+
+#signupForm,
+#passwordForm {
+  padding-right: 30px;
+  padding-left: 30px;
+  position: relative;
+}
+
+/*Icon next to input*/
+.icon {
+  padding: 10px;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+  font-size: 30pt;
+  margin-right: 10px;
+  border-radius: 100%;
+}
+
+/*Icon for successfull registration*/
+.success-icon {
+  background: green;
+}
+
+/*Icon for error in registration*/
+.error-icon {
+  background: red;
+}
+
+/*Div with message of success or failure of registration*/
+#registerModal {
+  width: 800px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.link-button {
+  color: white;
+}
+
+.link-button:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/*Div with the message*/
+.col-10 {
+  padding-top: 3%;
+  margin-left: 0;
+  padding-left: 0;
+}
+p {
+  margin-left: 1%;
+}
+
+@media (max-width: 500px) {
+  p {
+    margin-left: 15%;
+  }
+}
+@media (max-width: 600px) {
+  input {
+    width: 100%;
+  }
+  .formWrapper {
+    width: 90%;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 20%;
+  }
+  #registerModal {
+    width: 90%;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 20%;
+  }
+}
+
+#sticky-footer {
+  flex-shrink: none;
+  height: 150px;
+  margin-top: 250px;
+}

@@ -1,0 +1,89 @@
+/*Div for header and requests*/
+#outerWrapper {
+  height: 650px;
+  width: 600px;
+  border-radius: 10px;
+  padding-bottom: 30px;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 10%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  position: relative;
+}
+
+/*Header div of requests*/
+#headerDiv {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+/*Div for rquests*/
+#innerWrapper {
+  height: 500px;
+  width: 100%;
+  border-radius: 10px;
+  padding-bottom: 30px;
+  padding-top: 0;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-right: 0;
+  margin-left: 0;
+  display: block;
+  position: relative;
+}
+
+/*Div for a single request*/
+.requestDiv {
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #b3b6b7;
+}
+
+/*Details of a request*/
+.content {
+  font-size: 15pt;
+}
+
+/*Icon for approving request*/
+.fa-check {
+  background-color: green;
+  color: white;
+}
+
+/*Icon for declining request*/
+.fa-times {
+  background-color: red;
+  color: white;
+}
+
+.fa-check,
+.fa-times {
+  font-size: 15pt;
+  padding: 5px;
+}
+
+@media (max-width: 370px) {
+  p {
+    margin-left: 25%;
+  }
+}
+@media (max-width: 600px) {
+  input {
+    width: 100%;
+  }
+  #outerWrapper {
+    width: 90%;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 20%;
+  }
+}

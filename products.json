@@ -1,0 +1,268 @@
+[
+  {
+    "productName": "Almonds",
+    "imgPath": "productsImages/Almonds.png"
+  },
+  {
+    "productName": "Apples",
+    "imgPath": "productsImages/Apples.png"
+  },
+  {
+    "productName": "Asparagus",
+    "imgPath": "productsImages/Asparagus.png"
+  },
+  {
+    "productName": "Bamba",
+    "imgPath": "productsImages/Bamba.png"
+  },
+  {
+    "productName": "Banana",
+    "imgPath": "productsImages/Banana.png"
+  },
+  {
+    "productName": "Beer",
+    "imgPath": "productsImages/Beer.png"
+  },
+  {
+    "productName": "Bread",
+    "imgPath": "productsImages/Bread.png"
+  },
+  {
+    "productName": "Broccoli",
+    "imgPath": "productsImages/Broccoli.png"
+  },
+
+  {
+    "productName": "Bisli",
+    "imgPath": "productsImages/Bisli.png"
+  },
+  {
+    "productName": "Cake",
+    "imgPath": "productsImages/Cake.png"
+  },
+
+  {
+    "productName": "Cheese",
+    "imgPath": "productsImages/Cheese.png"
+  },
+  {
+    "productName": "Carrot",
+    "imgPath": "productsImages/Carrot.png"
+  },
+  {
+    "productName": "Chicken",
+    "imgPath": "productsImages/Chicken.png"
+  },
+  {
+    "productName": "Coffee",
+    "imgPath": "productsImages/Coffee.png"
+  },
+  {
+    "productName": "Cookies",
+    "imgPath": "productsImages/Cookies.png"
+  },
+  {
+    "productName": "Corn",
+    "imgPath": "productsImages/Corn.png"
+  },
+  {
+    "productName": "Cereal",
+    "imgPath": "productsImages/Cereal.png"
+  },
+  {
+    "productName": "Cucumber",
+    "imgPath": "productsImages/Cucumber.png"
+  },
+  {
+    "productName": "Dates",
+    "imgPath": "productsImages/Dates.png"
+  },
+  {
+    "productName": "Dumplings",
+    "imgPath": "productsImages/Dumplings.png"
+  },
+  {
+    "productName": "Donuts",
+    "imgPath": "productsImages/Donuts.png"
+  },
+  {
+    "productName": "Doritos",
+    "imgPath": "productsImages/Doritos.png"
+  },
+  {
+    "productName": "Eggs",
+    "imgPath": "productsImages/Eggs.png"
+  },
+  {
+    "productName": "Enchilada",
+    "imgPath": "productsImages/Enchilada.png"
+  },
+  {
+    "productName": "Eggrolls",
+    "imgPath": "productsImages/Eggrolls.png"
+  },
+  {
+    "productName": "Fish",
+    "imgPath": "productsImages/Fish.png"
+  },
+  {
+    "productName": "French Toast",
+    "imgPath": "productsImages/French Toast.png"
+  },
+  {
+    "productName": "Garlic",
+    "imgPath": "productsImages/Garlic.png"
+  },
+  {
+    "productName": "Ginger",
+    "imgPath": "productsImages/Ginger.png"
+  },
+  {
+    "productName": "Granola",
+    "imgPath": "productsImages/Granola.png"
+  },
+  {
+    "productName": "Grapes",
+    "imgPath": "productsImages/Grapes.png"
+  },
+  {
+    "productName": "Green beans",
+    "imgPath": "productsImages/Green beans.png"
+  },
+  {
+    "productName": "Guancamole",
+    "imgPath": "productsImages/Guancamole.png"
+  },
+  {
+    "productName": "Ham",
+    "imgPath": "productsImages/Ham.png"
+  },
+  {
+    "productName": "Halibut",
+    "imgPath": "productsImages/Halibut.png"
+  },
+  {
+    "productName": "Honey",
+    "imgPath": "productsImages/Honey.png"
+  },
+  {
+    "productName": "Hot Dogs",
+    "imgPath": "productsImages/Hot Dogs.png"
+  },
+  {
+    "productName": "Ice Cream",
+    "imgPath": "productsImages/Ice Cream.png"
+  },
+  {
+    "productName": "Irish Stew",
+    "imgPath": "productsImages/Irish Stew.png"
+  },
+  {
+    "productName": "Italian Bread",
+    "imgPath": "productsImages/Italian Bread.png"
+  },
+  {
+    "productName": "Jambalaya",
+    "imgPath": "productsImages/Jambalaya.png"
+  },
+  {
+    "productName": "Jelly",
+    "imgPath": "productsImages/Jelly.png"
+  },
+  {
+    "productName": "Kale",
+    "imgPath": "productsImages/Kale.png"
+  },
+  {
+    "productName": "Ketchup",
+    "imgPath": "productsImages/Ketchup.png"
+  },
+  {
+    "productName": "Kiwi",
+    "imgPath": "productsImages/Kiwi.png"
+  },
+  {
+    "productName": "Lobster",
+    "imgPath": "productsImages/Lobster.png"
+  },
+  {
+    "productName": "Lamb",
+    "imgPath": "productsImages/Lamb.png"
+  },
+  {
+    "productName": "Linguine",
+    "imgPath": "productsImages/Linguine.png"
+  },
+  {
+    "productName": "Lasagna",
+    "imgPath": "productsImages/Lasagna.png"
+  },
+  {
+    "productName": "Meatballs",
+    "imgPath": "productsImages/Meatballs.png"
+  },
+  {
+    "productName": "Moose",
+    "imgPath": "productsImages/Moose.png"
+  },
+  {
+    "productName": "Milk",
+    "imgPath": "productsImages/Milk.png"
+  },
+  {
+    "productName": "Milkshake",
+    "imgPath": "productsImages/Milkshake.png"
+  },
+  {
+    "productName": "Noodles",
+    "imgPath": "productsImages/Noodles.png"
+  },
+  {
+    "productName": "Pizza",
+    "imgPath": "productsImages/Pizza.png"
+  },
+  {
+    "productName": "Pepperoni",
+    "imgPath": "productsImages/Pepperoni.png"
+  },
+  {
+    "productName": "Pancakes",
+    "imgPath": "productsImages/Pancakes.png"
+  },
+  {
+    "productName": "Pesek Zman",
+    "imgPath": "productsImages/Pesek Zman.png"
+  },
+  {
+    "productName": "Potato",
+    "imgPath": "productsImages/Potato.png"
+  },
+  {
+    "productName": "Pringles onion",
+    "imgPath": "productsImages/Pringles onion.png"
+  },
+  {
+    "productName": "Quesadilla",
+    "imgPath": "productsImages/Quesadilla.png"
+  },
+  {
+    "productName": "Quiche",
+    "imgPath": "productsImages/Quiche.png"
+  },
+  {
+    "productName": "Tortit",
+    "imgPath": "productsImages/Tortit.png"
+  },
+  {
+    "productName": "Twix",
+    "imgPath": "productsImages/Twix.png"
+  },
+  {
+    "productName": "Yogurt",
+    "imgPath": "productsImages/Yogurt.png"
+  },
+  {
+    "productName": "Zucchini",
+    "imgPath": "productsImages/Zucchini.png"
+  }
+]

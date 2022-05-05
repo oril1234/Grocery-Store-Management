@@ -1,0 +1,118 @@
+/*Wrapper of create family form */
+#formWrapper {
+  width: 500px;
+  border-radius: 10px;
+  overflow: hidden;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  margin-top: 10%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  position: relative;
+}
+
+/*Header div of form*/
+#headerDiv {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+}
+
+/*Form for creating family*/
+#createFamilyForm {
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  position: relative;
+}
+
+/*Instructions to fill te form*/
+#instructions {
+  font-size: 17pt;
+}
+
+/*Div containing the input*/
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.modal-header {
+  text-align: center;
+  padding: 10px;
+}
+
+/*Styles of icon of input field*/
+.form-group .icon {
+  padding: 10px;
+  background: gray;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+  font-size: 20pt;
+}
+
+/*General settings for message icon*/
+.message-icon {
+  background: green;
+  padding: 10px;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+  font-size: 20pt;
+  margin-left: 15%;
+  border-radius: 100%;
+}
+
+/*Icon appears when pssword changed successfully*/
+.success-icon {
+  background: green;
+}
+
+/*Icon appears when error occured changing password*/
+.error-icon {
+  background: red;
+}
+
+/*Style of submit/reset buttons*/
+#confirmBtn {
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  #formWrapper {
+    width: 90%;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 20%;
+  }
+}
+
+@media (max-width: 370px) {
+  p {
+    margin-left: 25%;
+  }
+}
+
+/*Div of instructions*/
+.col-10 {
+  padding-top: 3%;
+  padding-left: 0;
+  margin-left: 0;
+}
